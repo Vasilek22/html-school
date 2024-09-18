@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/html-school/static/css/main.fe848f2f.css",
+    "main.js": "/html-school/static/js/main.2103417a.js",
+    "static/media/back.jpg": "/html-school/static/media/back.ae77bc6d6747760410c6.jpg",
+    "static/media/profile.png": "/html-school/static/media/profile.92a53b06107c79d16903.png",
+    "static/media/img.png": "/html-school/static/media/img.78f35de22ef8da3d8ded.png",
+    "static/media/Settings.svg": "/html-school/static/media/Settings.68b7a43b97ea419749eb0dcb732847ad.svg",
+    "static/media/File_Code.svg": "/html-school/static/media/File_Code.ff004d64ed05c3af1f562ed8114c8a52.svg",
+    "static/media/Calendar_Week.svg": "/html-school/static/media/Calendar_Week.16eaa01d98598128796803329a2435dd.svg",
+    "index.html": "/html-school/index.html",
+    "static/media/User_Circle.svg": "/html-school/static/media/User_Circle.5a6242699744ac1c40c89d3fc8b761ff.svg",
+    "static/media/Clock.svg": "/html-school/static/media/Clock.6334f62ad736fe9c661631920cc57349.svg",
+    "static/media/close.svg": "/html-school/static/media/close.aff456fcf78a275b44aa59b4f1a22b99.svg",
+    "main.fe848f2f.css.map": "/html-school/static/css/main.fe848f2f.css.map",
+    "main.2103417a.js.map": "/html-school/static/js/main.2103417a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe848f2f.css",
+    "static/js/main.2103417a.js"
+  ]
+}
