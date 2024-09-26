@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/html-school/static/css/main.b027ce10.css",
-    "main.js": "/html-school/static/js/main.3f722400.js",
+    "main.css": "/html-school/static/css/main.ac14c43e.css",
+    "main.js": "/html-school/static/js/main.b0abe5c9.js",
     "static/media/back.jpg": "/html-school/static/media/back.ae77bc6d6747760410c6.jpg",
     "static/media/profile.png": "/html-school/static/media/profile.92a53b06107c79d16903.png",
     "static/media/img.png": "/html-school/static/media/img.78f35de22ef8da3d8ded.png",
@@ -12,11 +12,11 @@
     "static/media/User_Circle.svg": "/html-school/static/media/User_Circle.5a6242699744ac1c40c89d3fc8b761ff.svg",
     "static/media/Clock.svg": "/html-school/static/media/Clock.6334f62ad736fe9c661631920cc57349.svg",
     "static/media/close.svg": "/html-school/static/media/close.aff456fcf78a275b44aa59b4f1a22b99.svg",
-    "main.b027ce10.css.map": "/html-school/static/css/main.b027ce10.css.map",
-    "main.3f722400.js.map": "/html-school/static/js/main.3f722400.js.map"
+    "main.ac14c43e.css.map": "/html-school/static/css/main.ac14c43e.css.map",
+    "main.b0abe5c9.js.map": "/html-school/static/js/main.b0abe5c9.js.map"
   },
   "entrypoints": [
-    "static/css/main.b027ce10.css",
-    "static/js/main.3f722400.js"
+    "static/css/main.ac14c43e.css",
+    "static/js/main.b0abe5c9.js"
   ]
 }
